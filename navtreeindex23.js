@@ -1,7 +1,5 @@
 var NAVTREEINDEX23 =
 {
-"classchip_1_1_crypto_1_1_spake2p.html#abe9fe6fba3d0b5b347b2d06242a7624e":[10,0,1,12,9,22],
-"classchip_1_1_crypto_1_1_spake2p.html#ac3cfffa7e9d8070940d584d713ba14a8":[10,0,1,12,9,21],
 "classchip_1_1_crypto_1_1_spake2p.html#ac4293142692d45e6d81622d91380583c":[10,0,1,12,9,31],
 "classchip_1_1_crypto_1_1_spake2p.html#ac9bab66a0a2df582ce5cc4a828c91af1":[10,0,1,12,9,50],
 "classchip_1_1_crypto_1_1_spake2p.html#ad5dc4e7bd7df8f98e843db2e6c7fa5f7":[10,0,1,12,9,37],
@@ -227,10 +225,10 @@ var NAVTREEINDEX23 =
 "classchip_1_1_device_layer_1_1_connectivity_manager_impl.html#a09433bd18d4fd5ee3e166f6331fcf258":[10,0,1,14,11,11],
 "classchip_1_1_device_layer_1_1_connectivity_manager_impl.html#a09433bd18d4fd5ee3e166f6331fcf258":[10,0,1,14,11,12],
 "classchip_1_1_device_layer_1_1_connectivity_manager_impl.html#a09433bd18d4fd5ee3e166f6331fcf258":[10,0,1,14,11,13],
+"classchip_1_1_device_layer_1_1_connectivity_manager_impl.html#a09433bd18d4fd5ee3e166f6331fcf258":[10,0,1,14,11,14],
 "classchip_1_1_device_layer_1_1_connectivity_manager_impl.html#a09433bd18d4fd5ee3e166f6331fcf258":[10,0,1,14,11,15],
 "classchip_1_1_device_layer_1_1_connectivity_manager_impl.html#a09433bd18d4fd5ee3e166f6331fcf258":[10,0,1,14,11,16],
 "classchip_1_1_device_layer_1_1_connectivity_manager_impl.html#a09433bd18d4fd5ee3e166f6331fcf258":[10,0,1,14,11,17],
-"classchip_1_1_device_layer_1_1_connectivity_manager_impl.html#a09433bd18d4fd5ee3e166f6331fcf258":[10,0,1,14,11,14],
 "classchip_1_1_device_layer_1_1_connectivity_manager_impl.html#a2bf0ce25247adba77e7bd64f549eb940":[10,0,1,14,11,3],
 "classchip_1_1_device_layer_1_1_connectivity_manager_impl.html#a2bf0ce25247adba77e7bd64f549eb940":[10,0,1,14,11,4],
 "classchip_1_1_device_layer_1_1_connectivity_manager_impl.html#a2bf0ce25247adba77e7bd64f549eb940":[10,0,1,14,11,5],
@@ -249,5 +247,7 @@ var NAVTREEINDEX23 =
 "classchip_1_1_device_layer_1_1_internal_1_1_ble_connection_delegate_impl.html":[10,0,1,14,0,1],
 "classchip_1_1_device_layer_1_1_internal_1_1_ble_connection_delegate_impl.html#adc126e918f7b4f86962b0610c9cb709c":[10,0,1,14,0,1,0],
 "classchip_1_1_device_layer_1_1_internal_1_1_ble_connection_delegate_impl.html#af480436c633b51c00f0a8920c7babf05":[10,0,1,14,0,1,1],
-"classchip_1_1_device_layer_1_1_internal_1_1_ble_platform_delegate_impl.html":[10,0,1,14,0,2]
+"classchip_1_1_device_layer_1_1_internal_1_1_ble_platform_delegate_impl.html":[10,0,1,14,0,2],
+"classchip_1_1_device_layer_1_1_internal_1_1_ble_platform_delegate_impl.html#a26d4ae6b181a2518179a704e4fec3c4a":[10,0,1,14,0,2,5],
+"classchip_1_1_device_layer_1_1_internal_1_1_ble_platform_delegate_impl.html#a53e08a35cae9a272248954fb3033e808":[10,0,1,14,0,2,3]
 };

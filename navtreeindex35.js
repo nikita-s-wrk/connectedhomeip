@@ -1,7 +1,5 @@
 var NAVTREEINDEX35 =
 {
-"classmdns_1_1_minimal_1_1_header_ref.html#ab4b5808532ad18f17be60c312da0d704":[10,0,3,0,6,6],
-"classmdns_1_1_minimal_1_1_header_ref.html#adffdc818af100dcbe1e52019af96e84c":[10,0,3,0,6,5],
 "classmdns_1_1_minimal_1_1_i_p_resource_record.html":[10,0,3,0,7],
 "classmdns_1_1_minimal_1_1_i_p_resource_record.html#ad00ae65ffd586ae9bd7713cd349d49f6":[10,0,3,0,7,0],
 "classmdns_1_1_minimal_1_1_i_p_resource_record.html#afc94f2e84518ed81d363c70ee8455139":[10,0,3,0,7,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX35 =
 "commissioner_8py.html#acee22e1347196568630c54edbd78ce58":[11,0,1,1,0,3,3,7],
 "commissioner_8py.html#ae4a6996daa57b44f0f674f824209c46e":[11,0,1,1,0,3,3,4],
 "configuration_2____init_____8py.html":[11,0,1,1,0,1,0],
-"configuration_2____init_____8py.html#a40e2dd498a8f90afee2b3993dbfa6b71":[11,0,1,1,0,1,0,0]
+"configuration_2____init_____8py.html#a40e2dd498a8f90afee2b3993dbfa6b71":[11,0,1,1,0,1,0,0],
+"configuration_2____init_____8py.html#a6369b2c90c00986e139db185b842df3c":[11,0,1,1,0,1,0,2],
+"configuration_2____init_____8py.html#ae46330fdb1ce9dea27d177247a51c76f":[11,0,1,1,0,1,0,1]
 };
