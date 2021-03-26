@@ -1,6 +1,5 @@
 var NAVTREEINDEX12 =
 {
-"_k32_w_2_thread_stack_manager_impl_8h.html#ac49db73d9aaa97e39416ad4a6149aabe":[11,0,7,5,32,2],
 "_k32_w_2_thread_stack_manager_impl_8h_source.html":[11,0,7,5,32],
 "_k32_w_2_warm_platform_config_8h.html":[11,0,7,5,33],
 "_k32_w_2_warm_platform_config_8h.html#a17a2a8051941105b9797c22d6b73a12f":[11,0,7,5,33,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX12 =
 "_mdns_8h.html#a7aabbd6d910d8bba5ba8b82ef7140393":[11,0,6,1,1,0,3],
 "_mdns_8h.html#a92918bc47fadde76f386ab039d196c7c":[11,0,6,1,1,0,9],
 "_mdns_8h.html#abb1a78179c950d386b70af49eb548e30":[11,0,6,1,1,0,11],
-"_mdns_8h.html#ac0b5927f16f9acfc238f7698f78b7f82":[11,0,6,1,1,0,7]
+"_mdns_8h.html#ac0b5927f16f9acfc238f7698f78b7f82":[11,0,6,1,1,0,7],
+"_mdns_8h.html#af067a54e6e14cce4fd6d1cc10c37e4ea":[11,0,6,1,1,0,12]
 };

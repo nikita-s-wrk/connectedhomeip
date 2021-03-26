@@ -1,6 +1,5 @@
 var NAVTREEINDEX22 =
 {
-"classchip_1_1_controller_1_1_door_lock_cluster.html#ab5321e6e8c3a92027d098f50e9f9be8d":[10,0,1,11,14,1],
 "classchip_1_1_controller_1_1_door_lock_cluster.html#ab59b02ab57d92a93c698c6d5e5f01776":[10,0,1,11,14,24],
 "classchip_1_1_controller_1_1_door_lock_cluster.html#abf5f72d36619880390c471ce2fcf02e7":[10,0,1,11,14,10],
 "classchip_1_1_controller_1_1_door_lock_cluster.html#ac2e1e3434689ff01f3021f61d1f83edf":[10,0,1,11,14,25],
@@ -249,5 +248,6 @@ var NAVTREEINDEX22 =
 "classchip_1_1_crypto_1_1_spake2p.html#aba5fcfc92afbb333294ae3b974c1ea48":[10,0,1,12,9,9],
 "classchip_1_1_crypto_1_1_spake2p.html#abdaa37839d68af182525ed4e0c6f4750":[10,0,1,12,9,11],
 "classchip_1_1_crypto_1_1_spake2p.html#abe9fe6fba3d0b5b347b2d06242a7624e":[10,0,1,12,9,22],
-"classchip_1_1_crypto_1_1_spake2p.html#ac3cfffa7e9d8070940d584d713ba14a8":[10,0,1,12,9,21]
+"classchip_1_1_crypto_1_1_spake2p.html#ac3cfffa7e9d8070940d584d713ba14a8":[10,0,1,12,9,21],
+"classchip_1_1_crypto_1_1_spake2p.html#ac4293142692d45e6d81622d91380583c":[10,0,1,12,9,31]
 };
