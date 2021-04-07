@@ -5,6 +5,19 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Debug openocd qpg6100 lighting-example",
+            "request": "launch",
+            "type": "cortex-debug",
+            "cwd": "${workspaceRoot}",
+            "servertype": "openocd",
+            "executable": "${workspaceRoot}/examples/lighting-app/qpg6100/out/debug/chip-qpg6100-lighting-example.out",
+            "svdFile": "${workspaceRoot}/../openocd/QPG6100.svd",
+            // "showDevDebugOutput": true,
+            "configFiles": [
+                "${workspaceRoot}/../openocd/openocd.cfg"
+            ]
+        },
+        {
             "name": "QRCode Tests",
             "type": "cppdbg",
             "request": "launch",
