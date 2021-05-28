@@ -40,6 +40,9 @@ chip_detail_logging = false
 # Use -Os
 is_debug = false
 
+# Enable LTO
+optimize_for_size_lto = true
+
 chip_build_tests = false
 
 # GH #4224

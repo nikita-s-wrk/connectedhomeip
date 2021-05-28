@@ -129,7 +129,9 @@ config("optimize_default") {
   } else {
     if (optimize_for_size) {
       configs = [ "$dir_pw_build:optimize_size" ]
-    } else {
+    } else if (optimize_for_size_lto){
+      configs = [ "$dir_pw_build:optimize_size_lto" ]
+    } else{
       configs = [ "$dir_pw_build:optimize_speed" ]
     }
 
