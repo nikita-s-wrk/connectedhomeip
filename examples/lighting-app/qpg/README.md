@@ -1,1 +1,1 @@
-../../platform/qpg/README.md
+./third_party/connectedhomeip/third_party/qpg_sdk/repo/examples/lighting-app/README.md
